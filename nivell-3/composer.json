@@ -1,0 +1,15 @@
+{
+    "name": "lluc/faker-demo",
+    "description": "Generate fake data for practice purpose",
+    "type": "project",
+    "require": {
+        "fakerphp/faker": "^1.24"
+    },
+    "authors": [
+        {
+            "name": "Lluc Badia Estopà",
+            "email": "lbadiaestopa@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
